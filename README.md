@@ -85,9 +85,86 @@
 
 ---
 
-### 🌟 Featured Project
-- 🏛️ **[KIPAN-RI Portal](https://github.com/indraagstin025/KIPAN-RI)**: Sistem portal profil organisasi terpadu dengan integrasi Supabase PostgreSQL, autentikasi terisolasi, dan editor berita dengan fitur *live preview*.
+---
 
-<div align="center">
-  <sub>⭐️ Profile designed by <a href="https://github.com/indraagstin025">indraagstin025</a></sub>
-</div>
+### 🌟 Featured Projects Showcase
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">🏛️ KIPAN-RI Portal</h3>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" />
+        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+        <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white" />
+      </p>
+      <p>Portal terpadu organisasi nasional dengan autentikasi pengurus terisolasi, integrasi cloud storage, dan CMS berita dengan simulasi <i>live preview</i>.</p>
+      <p align="center">
+        <a href="https://github.com/indraagstin025/KIPAN-RI"><b>View Repository →</b></a>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">📐 DevArchitect Studio</h3>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Tauri_2.0-24C8D8?style=flat-square&logo=tauri&logoColor=white" />
+        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+        <img src="https://img.shields.io/badge/Desktop-4A5568?style=flat-square" />
+      </p>
+      <p>Desktop Studio untuk rekayasa arsitektur visual: C4 Canvas, Sequence Modeler, Universal ERD Studio, dan Project Scaffolder.</p>
+      <p align="center">
+        <a href="https://github.com/indraagstin025/devarchitect-app"><b>View Repository →</b></a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">🤖 Multi-Agent AI System</h3>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" />
+        <img src="https://img.shields.io/badge/AI_Agent-8B5CF6?style=flat-square" />
+      </p>
+      <p>Arsitektur sistem kecerdasan buatan berbasis multi-agent dengan backend pemrosesan data Python dan antarmuka cross-platform Flutter.</p>
+      <p align="center">
+        <a href="https://github.com/indraagstin025/Backend-AI-MultiAgent"><b>View Repository →</b></a>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">✍️ WeSign E-Signature</h3>
+      <p align="center">
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+        <img src="https://img.shields.io/badge/Digital_Signature-10B981?style=flat-square" />
+      </p>
+      <p>Platform penandatanganan dokumen digital modern yang dirancang untuk kolaborasi real-time dan pengalaman pengguna yang intuitif.</p>
+      <p align="center">
+        <a href="https://github.com/indraagstin025/WeSign_Frontend-version2"><b>View Repository →</b></a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">👥 Employee Management System</h3>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Go_Fiber-00ACD7?style=flat-square&logo=go&logoColor=white" />
+        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+      </p>
+      <p>Sistem manajemen karyawan berperforma tinggi dengan fitur absensi berbasis dynamic QR Code dan penjadwalan kerja fleksibel.</p>
+      <p align="center">
+        <a href="https://github.com/indraagstin025/Sistem-Manajemen-Karyawan_Backend"><b>View Repository →</b></a>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">🐄 IoT Cattle Scale Platform</h3>
+      <p align="center">
+        <img src="https://img.shields.io/badge/ESP32-E7352C?style=flat-square" />
+        <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" />
+        <img src="https://img.shields.io/badge/IoT-06B6D4?style=flat-square" />
+      </p>
+      <p>Integrasi hardware firmware ESP32 dan backend Go berlatensi rendah untuk pemantauan bobot ternak secara presisi.</p>
+      <p align="center">
+        <a href="https://github.com/indraagstin025/Cattle-Scale_Backend"><b>View Repository →</b></a>
+      </p>
+    </td>
+  </tr>
+</table>
+
