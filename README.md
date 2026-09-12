@@ -1,21 +1,24 @@
 <div align="center">
 
-  <!-- Header Typing SVG Animasi -->
+  <!-- Header Banner Dinamis -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,11,20&height=180&section=header&text=Indra%20Agustin&fontSize=42&fontColor=ffffff&animation=fadeIn" width="100%" alt="Header Banner" />
+
+  <!-- Typing SVG (Sudah difix encodingnya agar 100% muncul di GitHub) -->
   <a href="https://github.com/indraagstin025">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=2563EB&center=true&vCenter=true&width=500&lines=Hi+there,+I'm+Indra+Agustin+👋;Full+Stack+Developer;Software+Architect+%26+Cloud+Enthusiast;Building+Scalable+Modern+Systems" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=3B82F6&center=true&vCenter=true&width=550&lines=Hi+there%2C+I'm+Indra+Agustin+%F0%9F%91%8B;Full+Stack+%26+Mobile+Developer;Laravel+%7C+Express.js+%7C+Go+Fiber+%7C+Flask;React.js+%7C+TypeScript+%7C+Flutter" alt="Typing SVG" />
   </a>
 
   <p align="center">
-    🚀 <i>Passionate Software Engineer focused on high-performance web applications, robust backend architectures, and secure distributed systems.</i>
+    🚀 <i>Software Developer with experience in web backends, responsive React frontends, and cross-platform mobile apps.</i>
   </p>
 
   <!-- Social Badges -->
   <p align="center">
     <a href="mailto:indraagustin012@gmail.com">
-      <img src="https://img.shields.io/badge/Email-indraagustin012%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+      <img src="https://img.shields.io/badge/Email-indraagustin012%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
     </a>
     <a href="https://github.com/indraagstin025">
-      <img src="https://img.shields.io/badge/GitHub-indraagstin025-181717?style=for-the-badge&logo=github&logoColor=white" />
+      <img src="https://img.shields.io/badge/GitHub-indraagstin025-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
     </a>
   </p>
 
@@ -25,40 +28,44 @@
 
 ### 👨‍💻 About Me
 
-- 🔭 **Currently Building**: **[KIPAN-RI Portal](https://github.com/indraagstin025/KIPAN-RI)** — Portal Profil Organisasi & CMS Modern dengan Laravel 12, Inertia React, dan Supabase.
-- ⚡ **Core Focus**: High-concurrency Backends (**Go/Golang**, **PHP/Laravel**), Interactive Frontends (**React**, **Angular**, **Next.js**), dan Cloud Infrastructure (**Docker**, **PostgreSQL**, **Cloudflare**).
-- 🔐 **Interests**: Clean Architecture, Data Privacy & Security (UU PDP / GDPR), Cloud-Native Systems, and Microservices.
-- 💬 **Ask me about**: Laravel ecosystem, Golang concurrency, React/Inertia, Database Optimization, and System Design.
+- 🔭 **Active Project**: **[KIPAN-RI Portal](https://github.com/indraagstin025/KIPAN-RI)** — Portal Organisasi & CMS Modern menggunakan Laravel, Inertia React, TailwindCSS, dan Supabase PostgreSQL.
+- 💻 **Tech Interests**: Scalable Web Architecture, Concurrency di Go, RESTful API Development, dan Cross-Platform Mobile Apps.
+- ⚡ **Experience**: Membangun aplikasi web dan mobile dengan berbagai ekosistem (PHP/Laravel, Node.js/Express, Go/Fiber, Python/Flask, React, dan Flutter).
 
 ---
 
-### 🛠️ Tech Stack & Tools
+### 🛠️ Tech Stack & Skills
 
 <div align="center">
 
-#### 💻 Languages & Frameworks
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+#### 🌐 Frontend & Mobile
+![React](https://img.shields.io/badge/React.js-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-#### 🗄️ Database, Cloud & DevOps
+#### ⚙️ Backend Frameworks
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![Go Fiber](https://img.shields.io/badge/Go_Fiber-00ACD7?style=for-the-badge&logo=go&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+#### 🗄️ Database & Developer Tools
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 </div>
 
 ---
 
-### 📊 GitHub Activity & Statistics
+### 📊 GitHub Activity & Stats
 
 <div align="center">
   <table border="0">
@@ -80,9 +87,9 @@
 
 ---
 
-### 🌟 Featured Highlights
-- 🏛️ **KIPAN-RI Portal**: Sistem terpadu organisasi kepemudaan nasional dengan arsitektur headless-ready, dynamic article editor, live preview simulation, dan integrasi cloud storage.
+### 🌟 Featured Project
+- 🏛️ **[KIPAN-RI Portal](https://github.com/indraagstin025/KIPAN-RI)**: Sistem portal profil organisasi terpadu dengan integrasi Supabase PostgreSQL, autentikasi terisolasi, dan editor berita dengan fitur *live preview*.
 
 <div align="center">
-  <sub>⭐️ Profile designed with clean code & modern aesthetics by <a href="https://github.com/indraagstin025">indraagstin025</a></sub>
+  <sub>⭐️ Profile designed by <a href="https://github.com/indraagstin025">indraagstin025</a></sub>
 </div>
