@@ -68,22 +68,20 @@
 ### 📊 GitHub Activity & Stats
 
 <div align="center">
-  <table border="0">
-    <tr>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=indraagstin025&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
-      </td>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=indraagstin025&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-      </td>
-    </tr>
-  </table>
 
-  <!-- Streak Stats Card -->
+  <!-- GitHub Stats & Top Languages (Fast & Active Mirror) -->
+  <p align="center">
+    <img src="https://github-readme-stats-fast.vercel.app/api?username=indraagstin025&show_icons=true&theme=tokyonight&hide_border=true" height="190" alt="GitHub Stats" />
+    <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=indraagstin025&theme=tokyonight&hide_border=true" height="190" alt="Top Languages" />
+  </p>
+
+  <!-- Streak Stats Card (1,198+ Total Contributions) -->
   <p align="center">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=indraagstin025&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
   </p>
+
 </div>
+
 
 ---
 
